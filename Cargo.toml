@@ -1,0 +1,6 @@
+[package]
+name = "silica-core-sync"
+version = "0.1.0"
+authors = ["Wilfried Chauveau <wilfried.chauveau@ithinuel.me>"]
+
+[dependencies]
